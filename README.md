@@ -1,6 +1,3 @@
-# 4883-Programming_Techniques-Gilliland
-Compilation of UVA programs for programming techniques course
-
 ## Sarah Gilliland
 #### Repo: 4883 Programming Techniques Repo
 #### Email: sarah13grace@gmail.com
