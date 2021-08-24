@@ -6,7 +6,7 @@ Compilation of UVA programs for programming techniques course
 #### Email: sarah13grace@gmail.com
 #### Website: None
 #### Image:
-<img src="JamesonsFlowers2.jpg" width="300">
+<img src="Images/JamesonsFlowers2.jpg" width="300">
 
 #### Avatar:
 <img src="Images/withZoeAvatar.jpg" width="200">
