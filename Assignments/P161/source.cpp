@@ -12,7 +12,6 @@ using namespace std;
 
 int main()
 {
-
     int seconds, interval = 0, tmp = 0;
     bool flag = true;
     bool allGreen, lightChange, notGreen;
