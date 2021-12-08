@@ -4,7 +4,7 @@
 
 ### Overview
 
-This problem .....
+This program reads a sequence of integers and decides if the sequence can be considered "jolly" - which would mean that the absolute value of the differences between the elements consist of all numbers 1... n-1 for a sequence of n numbers.
 
 | File | Description |
 | :----: | ----------- |

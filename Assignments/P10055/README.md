@@ -1,10 +1,10 @@
 ## 10055 - Hashmat
-#### Assignment 1
+#### Assignment 4
 [PDF](https://github.com/sgilliland/4883-Programming_Techniques-Gilliland/blob/main/Assignments/P10055/10055.pdf)
 
 ### Overview
 
-This problem .....
+This program reads in sizes of armies and returns the difference.
 
 | File | Description |
 | :----: | ----------- |

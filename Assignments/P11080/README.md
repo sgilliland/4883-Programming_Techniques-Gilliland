@@ -4,7 +4,7 @@
 
 ### Overview
 
-This problem .....
+This program reads in data describing a map and calculates the minimum number of guards needed to be placed so that all edges and vertices can be covered by one guard.
 
 | File | Description |
 | :----: | ----------- |

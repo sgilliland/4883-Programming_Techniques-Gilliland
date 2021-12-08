@@ -4,7 +4,7 @@
 
 ### Overview
 
-This problem...
+This program implements the fibonacci sequence, but becomes tricky when the input is too large of a number to be processed as in int.
 
 | File | Description |
 | :----: | ----------- |

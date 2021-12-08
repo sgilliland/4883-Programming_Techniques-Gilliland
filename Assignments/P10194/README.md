@@ -4,7 +4,7 @@
 
 ### Overview
 
-This problem .....
+This program reads in data describing a football tournament and uses a set of requirements to rank the teams in winning order.
 
 | File | Description |
 | :----: | ----------- |

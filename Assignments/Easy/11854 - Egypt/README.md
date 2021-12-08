@@ -4,7 +4,7 @@
 
 ### Overview
 
-This problem ...
+This program reads in 3 numbers and prints if the numbers can make the 3 side lengths of a right triangle.
 
 | File | Description |
 | :----: | ----------- |

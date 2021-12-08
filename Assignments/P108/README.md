@@ -4,7 +4,7 @@
 
 ### Overview
 
-This problem implements Kadane's algorithm to find the maximum sum of a set, but modifies it to apply to a 2D array of integers.
+This program implements Kadane's algorithm to find the maximum sum of a set, but modifies it to apply to a 2D array of integers.
 
 | File | Description |
 | :----: | ----------- |

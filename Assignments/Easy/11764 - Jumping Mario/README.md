@@ -4,7 +4,7 @@
 
 ### Overview
 
-This problem reads in the heights of jumps made by Mario and compares them to calculate the number of high jumps and the number of low jumps.
+This program reads in the heights of jumps made by Mario and compares them to calculate the number of high jumps and the number of low jumps.
 
 | File | Description |
 | :----: | ----------- |

@@ -4,7 +4,7 @@
 
 ### Overview
 
-This problem .....
+This program reads in strings of tree names and calculates the fractions of tree populations for each species.
 
 | File | Description |
 | :----: | ----------- |

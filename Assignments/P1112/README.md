@@ -4,7 +4,7 @@
 
 ### Overview
 
-This problem .....
+This program generates a maze and runs dijkstras shortest path algorithm to cacluate the number of mice who could make it through the maze in a given time frame.
 
 | File | Description |
 | :----: | ----------- |

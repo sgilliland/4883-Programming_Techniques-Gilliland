@@ -4,7 +4,7 @@
 
 ### Overview
 
-This problem ...
+This program implements a simple sort algorithm to sort ages and easily find the median age.
 
 | File | Description |
 | :----: | ----------- |

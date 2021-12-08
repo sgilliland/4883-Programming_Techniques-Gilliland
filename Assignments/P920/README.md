@@ -4,7 +4,7 @@
 
 ### Overview
 
-This problem .....
+This program reads in data describing peaks and troughs of a mountain range, and sorts the points according to their x-axis coordinates. The program then uses the Euclidean distance formula in its calculation of what portions of the mountain ranges could be covered by a horizontally streaming ray of light.
 
 | File | Description |
 | :----: | ----------- |
