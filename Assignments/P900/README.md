@@ -4,7 +4,7 @@
 
 ### Overview
 
-This problem implements vectors and a brute-force approachcto a problem looking at the similar timing of cycles for a given series of traffic lights.
+This problem...
 
 | File | Description |
 | :----: | ----------- |
